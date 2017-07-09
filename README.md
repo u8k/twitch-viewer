@@ -1,2 +1,2 @@
 # twitch-viewer
-<a href="http://18.220.42.224/twitch">Live Link</a>
+<a href="http://www.peterb.space/twitch/">Live Link</a>
